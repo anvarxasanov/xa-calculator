@@ -1,0 +1,9 @@
+.result {
+    display: flex;
+    align-items: center;
+    text-align: end;
+    width: 106px;
+    height: 30px;
+    background-color: #000;
+    color: #fff;
+}
